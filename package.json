@@ -1,25 +1,23 @@
 {
   "name": "hsandovalmoreno",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "A personal card for Hermes Sandoval Moreno (@hsandovaltides)",
   "main": "presentation.mjs",
   "bin": {
-    "anmol": "./presentation.mjs"
+    "anmol": "./presentation.js"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hsandovaltides/npx_presentation.git"
   },
   "scripts": {
-    "test": "node presentation.mjs",
+    "test": "node presentation.js",
     "pub": "npm version major & npm publish"
   },
   "dependencies": {
     "boxen": "^6.2.1",
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
-    "cli-spinners": "^2.6.1",
     "inquirer": "^8.2.0",
     "open": "^8.4.0"
   },
