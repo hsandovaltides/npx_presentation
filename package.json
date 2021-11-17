@@ -4,7 +4,7 @@
   "description": "A personal card for Hermes Sandoval Moreno (@hsandovaltides)",
   "main": "presentation.mjs",
   "bin": {
-    "anmol": "./presentation.js"
+    "hsandovalmoreno": "./presentation.js"
   },
   "repository": {
     "type": "git",
