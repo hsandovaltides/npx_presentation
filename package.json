@@ -1,8 +1,8 @@
 {
   "name": "hsandovalmoreno",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "A personal card for Hermes Sandoval Moreno (@hsandovaltides)",
-  "main": "presentation.mjs",
+  "main": "presentation.js",
   "bin": {
     "hsandovalmoreno": "./presentation.js"
   },
@@ -16,10 +16,10 @@
   },
   "dependencies": {
     "boxen": "^4.2.0",
-    "chalk": "^4.1.2",
+    "chalk": "^4.1.0",
     "clear": "^0.1.0",
-    "inquirer": "^8.2.0",
-    "open": "^8.4.0"
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4"
   },
   "keywords": [
     "presentation",
