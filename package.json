@@ -1,0 +1,35 @@
+{
+  "name": "hsandovalmoreno",
+  "version": "2.1.0",
+  "description": "A personal card for Hermes Sandoval Moreno (@hsandovaltides)",
+  "main": "presentation.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsandovaltides/npx_presentation.git"
+  },
+  "scripts": {
+    "test": "node presentation.mjs",
+    "pub": "npm version major & npm publish"
+  },
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.6.1",
+    "inquirer": "^8.2.0",
+    "open": "^8.4.0",
+    "ora": "^6.0.1",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "presentation",
+    "npm",
+    "npm presentation",
+    "npx",
+    "npx presentation",
+    "business presentation"
+  ],
+  "author": "Hermes Sandoval M. <hsandoval@tides.cl> (https://tides.cl/)",
+  "license": "ISC"
+}
