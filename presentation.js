@@ -50,7 +50,7 @@ const data = {
         .bold("TIDES SPA")}`,
     github: chalk.gray("https://github.com/") + chalk.green("hsandovaltides"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("hsandovalmoreno"),
-    npx: chalk.red("npx") + " " + chalk.white("hsandovaltides"),
+    npx: chalk.red("npx") + " " + chalk.white("hsandovalmoreno"),
     labelWork: chalk.white.bold("       Work:"),
     labelGitHub: chalk.white.bold("     GitHub:"),
     labelLinkedIn: chalk.white.bold("   LinkedIn:"),
